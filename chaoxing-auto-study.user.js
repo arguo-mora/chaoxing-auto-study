@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         超星学习通 自动助手
-// @namespace    https://github.com/chaoxing-auto-study
+// @namespace    https://github.com/arguo-mora/chaoxing-auto-study
 // @version      1.0.0
 // @description  自动静音二倍速播放，自动下一节，可配置跳过考试
 // @match        https://mooc1.chaoxing.com/mycourse/studentstudy*
-// @updateURL    https://raw.githubusercontent.com/用户名/仓库名/main/chaoxing-auto-study.user.js
-// @downloadURL  https://raw.githubusercontent.com/用户名/仓库名/main/chaoxing-auto-study.user.js
+// @updateURL    https://raw.githubusercontent.com/arguo-mora/chaoxing-auto-study/refs/heads/main/chaoxing-auto-study.user.js
+// @downloadURL  https://raw.githubusercontent.com/arguo-mora/chaoxing-auto-study/refs/heads/main/chaoxing-auto-study.user.js
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
