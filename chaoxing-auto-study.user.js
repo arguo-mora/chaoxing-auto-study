@@ -4,10 +4,14 @@
 // @version      1.0.0
 // @description  自动静音二倍速播放，自动下一节，可配置跳过考试
 // @match        https://mooc1.chaoxing.com/mycourse/studentstudy*
-// @updateURL    https://raw.githubusercontent.com/arguo-mora/chaoxing-auto-study/refs/heads/main/chaoxing-auto-study.user.js
-// @downloadURL  https://raw.githubusercontent.com/arguo-mora/chaoxing-auto-study/refs/heads/main/chaoxing-auto-study.user.js
+// @updateURL    https://raw.githubusercontent.com/arguo-mora/chaoxing-auto-study/main/chaoxing-auto-study.user.js
+// @downloadURL  https://raw.githubusercontent.com/arguo-mora/chaoxing-auto-study/main/chaoxing-auto-study.user.js
 // @grant        none
 // @run-at       document-start
+// @author       arguo-mora
+// @homepageURL  https://github.com/arguo-mora/chaoxing-auto-study
+// @supportURL   https://github.com/arguo-mora/chaoxing-auto-study
+// @license      MIT
 // ==/UserScript==
 
 (function () {
